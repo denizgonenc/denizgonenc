@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Deniz</h1>
 <h3 align="center">A passionate CS student from Turkey</h3>
 
-- 🔭 I’m currently working as an intern at **Doğuş Technology**
-
-- 🌱 I’m currently learning **Node.js**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/denizgönenç" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="denizgönenç" height="30" width="40" /></a>
