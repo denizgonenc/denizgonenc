@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Deniz</h1>
 <h3 align="center">A passionate CS student from Hacettepe University, Turkey</h3>
 
-- 🔭 I’m currently working on **an NLP project for our final term.**
+- 🔭 I’m currently working on **an NLP project**
 
 - 🌱 I’m currently learning **PyTorch**
 
