@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Deniz</h1>
 <h3 align="center">A junior software engineer from Turkey</h3>
-<h3 align="center">AI currently work at <b>Picus Security</b></h3>
+<h3 align="center">I currently work at <b>Picus Security</b></h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
